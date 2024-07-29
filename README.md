@@ -40,7 +40,7 @@
 ## 📫 Contact Me
 - **Email:** [sasiyaelangovan@gmail.com](mailto:sasiyaelangovan@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sasiya-elangovan/)
-- **GitHub:** [Follow me](https://www.linkedin.com/in/sasiya-elangovan/)
+- **GitHub:** [Follow me](https://github.com/Sasiya-Elangovan)
 
 ---
 
