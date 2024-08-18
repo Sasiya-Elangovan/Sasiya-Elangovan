@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm E.Sasiya
+# 👋 Hi there! I'm SASIYA E
 
 **Aspiring Software Engineer | Programmer**
 
