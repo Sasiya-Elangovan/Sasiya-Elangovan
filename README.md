@@ -26,7 +26,7 @@
 
 ### 🏆 Achievements
     
-- Solved around **1000 problems** across various coding platforms like [Hackerrank ](https://www.hackerrank.com/profile/sasiya), and [Skillrack ](https://www.skillrack.com/faces/resume.xhtml?id=439330&key=44b8c0bc61b6bb57e84d39d1e4efa2bdf307462e).
+- Solved around **1000 problems** across various coding platforms like [Hackerrank ](https://www.hackerrank.com/profile/sasiya),[Leetcode](https://leetcode.com/u/SASIYA_E/), and [Skillrack ](https://www.skillrack.com/faces/resume.xhtml?id=439330&key=44b8c0bc61b6bb57e84d39d1e4efa2bdf307462e).
 - **1000+ Programs solved** in SkillRack and earned **15+ Certificates**.
 
 ---
