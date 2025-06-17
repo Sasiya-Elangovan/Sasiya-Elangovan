@@ -38,14 +38,14 @@ Creative problem-solving and continuous learning
   
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 - **Languages:** Java, C++, C, JavaScript, Python, SQL
 - **Web Development:** HTML, CSS, JavaScript,React,Bootstrap
 - **Tools & Libraries:**  GitHub, VSCode,Figma
 
 ---
 
-### 🏆 Achievements
+### 🏆 Achievements  and Interests
 - Winner – AI in Education Hackathon by Impacteers
 - Top 6 Finalist – Project Presentation at ITRIX'25, Anna University
 - Top 21 Finalist – Innovate-X National Hackathon, SSN College of Engineering
