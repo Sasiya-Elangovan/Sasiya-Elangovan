@@ -19,13 +19,14 @@
 
 ## 🛠️ Skills
 - **Languages:** Java, C++, C, JavaScript, Python, SQL
-- **Web Development:** HTML, CSS, JavaScript
-- **Tools & Libraries:**  GitHub, VSCode
+- **Web Development:** HTML, CSS, JavaScript,React,Bootstrap
+- **Tools & Libraries:**  GitHub, VSCode,Figma
 
 ---
 
 ### 🏆 Achievements
-    
+- Winner – AI in Education Hackathon by Impacteers
+-  
 - Solved around **1000 problems** across various coding platforms like [Skillrack ](https://www.skillrack.com/faces/resume.xhtml?id=439330&key=44b8c0bc61b6bb57e84d39d1e4efa2bdf307462e).
 - **1000+ Programs solved** in SkillRack and earned **15+ Certificates**.
 
@@ -41,6 +42,7 @@
 - **Email:** [sasiyaelangovan@gmail.com](mailto:sasiyaelangovan@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sasiya-elangovan/)
 - **GitHub:** [Follow me](https://github.com/Sasiya-Elangovan)
+- **Portfolio:** [Connect me](https://sasiya-elangovan.web.app/)
 
 ---
 
