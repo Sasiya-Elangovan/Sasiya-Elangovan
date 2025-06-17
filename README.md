@@ -67,7 +67,7 @@ Creative problem-solving and continuous learning
 - **Email:** [sasiyaelangovan@gmail.com](mailto:sasiyaelangovan@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sasiya-elangovan/)
 - **GitHub:** [Follow me](https://github.com/Sasiya-Elangovan)
-- **Portfolio:** [Connect me](https://sasiya-elangovan.web.app/)
+- **Portfolio:** [Connect with me](https://sasiya-elangovan.web.app/)
 
 ---
 
