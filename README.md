@@ -78,7 +78,6 @@ Creative problem-solving and continuous learning
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasiya-elangovan&show_icons=true&locale=en" alt="sasiya-elangovan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasiya-elangovan&" alt="sasiya-elangovan" /></p>
 
 
 
