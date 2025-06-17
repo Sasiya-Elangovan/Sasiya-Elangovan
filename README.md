@@ -64,8 +64,8 @@ Creative problem-solving and continuous learning
 ---
 
 ### 🚀 Projects
-- [MindSpark – Kids Learning](https://github.com/your-username/mindspark) – An AI-powered gamified learning app.
-- [E-Waste Connect ](https://github.com/your-username/e-waste-recycle-hub) – A Frontend platform to schedule e-waste pickups.
+- [MindSpark – Kids Learning](https://github.com/Sasiya-Elangovan/KidsLearn) – An AI-powered gamified learning app.
+- [E-Waste Connect ](https://github.com/Sasiya-Elangovan/EcycleConnect) – A Frontend platform to schedule e-waste pickups.
 
 ---
 
