@@ -5,7 +5,28 @@
 ---
 
 ## 🎯 About Me
- I am pursuing my Bachelor of Engineering in Computer Science at R.M.K Engineering College, Chennai. 
+Hi there! I'm Sasiya E, an aspiring software engineer and passionate programmer currently pursuing my Bachelor of Engineering in Computer Science at R.M.K. Engineering College, Chennai.
+
+I love building creative tech solutions that solve real-world problems. From participating in national-level hackathons to collaborating on innovative projects, I’m always looking to grow, learn, and contribute to meaningful work.
+
+🌱 I'm currently learning:
+
+Full-stack web development
+
+AI/ML fundamentals
+
+Open source collaboration and contributions
+
+✨ I’m passionate about:
+
+Developing smart and sustainable tech solutions
+
+Participating in hackathons and tech fests
+
+Creative problem-solving and continuous learning
+
+🚀 I'm open to internships, collaborations, and opportunities to work on impactful projects!
+
 
 ---
 
@@ -26,8 +47,12 @@
 
 ### 🏆 Achievements
 - Winner – AI in Education Hackathon by Impacteers
--  
-- Solved around **1000 problems** across various coding platforms like [Skillrack ](https://www.skillrack.com/faces/resume.xhtml?id=439330&key=44b8c0bc61b6bb57e84d39d1e4efa2bdf307462e).
+- Top 6 Finalist – Project Presentation at ITRIX'25, Anna University
+- Top 21 Finalist – Innovate-X National Hackathon, SSN College of Engineering
+- Third Place – Intra-Department Project Competition, R.M.K. Engineering College
+- 𝟏𝐬𝐭 𝐏𝐫𝐢𝐳𝐞 𝐖𝐢𝐧𝐧𝐞𝐫 in the 𝐖𝐨𝐫𝐥𝐝 𝐇𝐞𝐫𝐢𝐭𝐚𝐠𝐞 𝐃𝐚𝐲 - 𝐎𝐧𝐥𝐢𝐧𝐞 𝐏𝐡𝐨𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐲 𝐂𝐨𝐧𝐭𝐞𝐬𝐭 𝟐𝟎𝟐𝟓,Anna University
+- Secured Third place in the photography competition themed 'Quality Education,' organized by RMK Engineering College.
+- Solved around **1000+ problems** across various coding platforms like [Skillrack ](https://www.skillrack.com/faces/resume.xhtml?id=439330&key=44b8c0bc61b6bb57e84d39d1e4efa2bdf307462e),[Leetcode ](https://leetcode.com/u/SASIYA_E/),[GeeksforGeeks](https://www.geeksforgeeks.org/user/sasiya/)
 - **1000+ Programs solved** in SkillRack and earned **15+ Certificates**.
 
 ---
