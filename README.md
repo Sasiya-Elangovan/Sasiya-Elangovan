@@ -63,12 +63,6 @@ Creative problem-solving and continuous learning
 
 ---
 
-### 🚀 Projects
-- [MindSpark – Kids Learning](https://github.com/Sasiya-Elangovan/KidsLearn) – An AI-powered gamified learning app.
-- [E-Waste Connect ](https://github.com/Sasiya-Elangovan/EcycleConnect) – A Frontend platform to schedule e-waste pickups.
-
----
-
 ## 📫 Contact Me
 - **Email:** [sasiyaelangovan@gmail.com](mailto:sasiyaelangovan@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sasiya-elangovan/)
